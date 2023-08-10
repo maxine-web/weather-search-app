@@ -10,6 +10,7 @@ body {
   padding: 50px;
   border-radius: 25px;
   position: absolute;
+  visibility: hidden;
 }
 
 #weatherContainer h1 {
